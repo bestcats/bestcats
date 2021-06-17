@@ -1,5 +1,6 @@
 ### bestcats.github.io 👋
 
+Something about my cats
 <!--
 **bestcats/bestcats.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
